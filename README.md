@@ -1,7 +1,6 @@
 <!--
-GITHUB PROFILE README
+GitHub Profile README
 Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
-Only list technologies and skills you genuinely use or are actively learning.
 -->
 
 <div align="center">
@@ -10,23 +9,23 @@ Only list technologies and skills you genuinely use or are actively learning.
 
 <br/>
 
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=Exploring+Data.+Discovering+Insights.;Machine+Learning+%7C+Computer+Vision;Turning+Ideas+Into+Intelligent+Systems;Learn+Deeply.+Build+Intelligently." alt="Animated introduction"/>
+</a>
+
+<br/>
+
+**Data Scientist · Machine Learning Enthusiast · Computer Vision Enthusiast**
+
+*Exploring the intersection of data, mathematics, and intelligent systems.*
+
+<br/>
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=Turning+Data+Into+Intelligence;Exploring+Machine+Learning+%26+Computer+Vision;Building+Projects+That+Solve+Real+Problems;Learning+Today.+Engineering+Tomorrow." alt="Animated introduction"/>
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Profile-00D4FF?style=for-the-badge&logo=github&logoColor=08111F" alt="GitHub profile"/>
 </a>
-
-<br/>
-
-**Computer Science Student · Data Scientist · ML & Computer Vision Enthusiast**
-
-*Exploring the intersection of mathematics, data, and intelligent systems.*
-
-<br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=08111F" alt="Explore projects"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=stars">
-  <img src="https://img.shields.io/badge/My_Interests-14213D?style=for-the-badge&logo=github&logoColor=white" alt="My interests"/>
+<a href="https://www.linkedin.com/in/yash-raj-tiwari-003feb/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 
 </div>
@@ -35,23 +34,24 @@ Only list technologies and skills you genuinely use or are actively learning.
 
 ## `01` — ABOUT ME
 
-I'm Yashraj Tiwari, a Computer Science student pursuing a foundation in **Data Science, Machine Learning, and Computer Vision**.
+I'm Yashraj Tiwari, a **Data Scientist with a strong interest in Machine Learning and Computer Vision**. I'm passionate about understanding the mathematical foundations of intelligent systems and exploring how data and algorithms can solve meaningful real-world problems.
 
-My goal is to develop a strong understanding of the mathematics, algorithms, and engineering principles behind intelligent systems—and turn that knowledge into practical, well-documented projects.
+My focus is on developing strong technical foundations, experimenting with data-driven approaches, and continuously expanding my knowledge of AI and its applications.
 
-- **Education:** B.Sc. Honours with Research in Computer Science, with Statistics and Mathematics minors.
 - **Core interests:** Data Science, Machine Learning, Computer Vision, and Artificial Intelligence.
-- **Learning philosophy:** Understand the mathematics, experiment with the code, evaluate the results, and document the lessons.
-- **Current mission:** Strengthen my technical foundations and build increasingly sophisticated, real-world projects.
-- **Long-term direction:** Develop the skills to engineer reliable, data-driven and AI-powered solutions.
+- **Data Science:** Data analysis, exploratory data analysis, statistical reasoning, and visualization.
+- **Machine Learning:** Learning algorithms, model evaluation, feature engineering, and predictive modeling.
+- **Computer Vision:** Image processing, visual understanding, and deep learning for image and video analysis.
+- **Mathematical foundations:** Statistics, probability, linear algebra, calculus, and optimization.
+- **Long-term vision:** Build reliable, intelligent, and data-driven solutions to real-world challenges.
 
-> I don't just want to use intelligent systems. I want to understand how they work, how they fail, and how to make them better.
+> My goal is to understand not just what intelligent systems predict, but why they make those predictions, how they fail, and how they can be improved.
 
 ## `02` — TECHNICAL ARSENAL
 
 <div align="center">
 
-### Programming & Data
+### Programming & Development
 
 <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode&theme=dark" alt="Programming and development tools"/>
 
@@ -74,65 +74,26 @@ My goal is to develop a strong understanding of the mathematics, algorithms, and
 
 <br/><br/>
 
-### Databases & Analytics
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
 
 </div>
 
-*Note: The technologies displayed above are a suggested roadmap, not a claim of proficiency. Keep only those you have actually used or are actively studying, and distinguish current skills from future learning goals.*
+*Technologies displayed here should reflect the tools I use or am actively learning. My expertise will continue to grow through experimentation and practical application.*
 
-## `03` — FEATURED PROJECTS
+## `03` — CURRENT FOCUS
 
-I believe projects should demonstrate more than the ability to run a model. They should show problem formulation, data preparation, sound evaluation, experimentation, and clear communication.
+My focus is on strengthening the foundations that power modern data science and intelligent systems.
 
-<div align="center">
+- **Data Science:** Data cleaning, exploratory data analysis, statistical analysis, and visualization.
+- **Machine Learning:** Supervised and unsupervised learning, feature engineering, model selection, and evaluation.
+- **Computer Vision:** Image processing, feature extraction, image classification, and object detection.
+- **Deep Learning:** Neural networks and the principles behind modern AI architectures.
+- **Mathematics:** Linear algebra, probability, statistics, calculus, and optimization.
+- **Engineering practices:** Clean code, version control, reproducibility, documentation, and systematic experimentation.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/PROJECT_01-Real--World_ML_Problem-0D1117?style=for-the-badge&labelColor=14213D" alt="Machine learning project"/>
-</a>
-
-</div>
-
-**Project spotlight: Machine Learning**
-
-A project that tackles a meaningful real-world problem using data analysis, feature engineering, model selection, and appropriate evaluation metrics.
-
-`Python` `Pandas` `Scikit-learn` `Data Visualization`
-
----
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/PROJECT_02-Computer_Vision_System-0D1117?style=for-the-badge&labelColor=14213D" alt="Computer vision project"/>
-</a>
-
-</div>
-
-**Project spotlight: Computer Vision**
-
-An image or video analysis system exploring visual features, model predictions, and measurable performance under different conditions.
-
-`Python` `OpenCV` `Deep Learning` `Model Evaluation`
-
----
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/PROJECT_03-Data_Analysis_&_Insights-0D1117?style=for-the-badge&labelColor=14213D" alt="Data analysis project"/>
-</a>
-
-</div>
-
-**Project spotlight: Data Analytics**
-
-An end-to-end analysis that transforms raw data into useful insights through exploratory analysis, statistical reasoning, and meaningful visualizations.
-
-`Python` `SQL` `Statistics` `Visualization`
-
-*Replace these concepts with your actual repositories. Link each project card to its corresponding repository and include a demonstration, methodology, results, and limitations.*
+I believe that mastering fundamentals and consistently applying them to practical problems is essential to becoming a better data scientist and AI practitioner.
 
 ## `04` — GITHUB ACTIVITY
 
@@ -140,48 +101,40 @@ An end-to-end analysis that transforms raw data into useful insights through exp
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D4FF&icon_color=00D4FF&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D4FF&text_color=E6EDF3" alt="Most-used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D4FF&text_color=E6EDF3" alt="Most-used programming languages"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=080B16&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
-*Statistics services can occasionally be unavailable or rate-limited. Language percentages describe repository code, not your actual proficiency.*
+*GitHub statistics reflect repository activity and code contributions; they are not direct measures of technical expertise.*
 
-## `05` — CURRENT RESEARCH & LEARNING
-
-My learning roadmap focuses on building strong fundamentals before moving towards more advanced intelligent systems.
-
-- **Programming:** Python, problem-solving, and software development fundamentals.
-- **Data Science:** NumPy, Pandas, exploratory data analysis, visualization, and SQL.
-- **Mathematical foundations:** Linear algebra, calculus, probability, statistics, and optimization.
-- **Machine Learning:** Supervised and unsupervised learning, feature engineering, model evaluation, and experimentation.
-- **Computer Vision:** Image processing, feature extraction, image classification, object detection, and deep learning.
-- **Engineering mindset:** Reproducibility, testing, documentation, version control, and responsible evaluation.
-
-As my skills develop, this section will evolve to reflect my actual projects, experiments, and technical discoveries.
-
-## `06` — MY ENGINEERING PRINCIPLES
+## `05` — MY ENGINEERING PRINCIPLES
 
 ```text
-01. Understand the problem before choosing the model.
-02. Understand the mathematics behind the algorithm.
+01. Understand the problem before choosing the algorithm.
+02. Learn the mathematics behind the model.
 03. Establish baselines before pursuing complexity.
-04. Evaluate models with appropriate metrics.
-05. Document experiments, limitations, and failures.
-06. Build solutions that can be reproduced and improved.
+04. Evaluate results with appropriate metrics.
+05. Investigate failures instead of hiding them.
+06. Make experiments reproducible and well documented.
+07. Keep learning, experimenting, and improving.
 ```
 
-## `07` — LET'S CONNECT
+## `06` — LET'S CONNECT
 
-I'm interested in learning from the data science and AI community, exchanging ideas, and collaborating on meaningful technical projects.
+I'm interested in connecting with people who share an interest in Data Science, Machine Learning, Computer Vision, and Artificial Intelligence.
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/yash-raj-tiwari-003feb/">
+<img src="https://img.shields.io/badge/LinkedIn-Yash_Raj_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/>
+</a>
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
 </a>
 
 <br/><br/>
