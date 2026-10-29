@@ -5,12 +5,12 @@ Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:14213D,100:00D4FF&height=220&section=header&text=YASHRAJ%20TIWARI&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20COMPUTER%20VISION&descSize=13&descAlignY=59&animation=fadeIn" width="100%" alt="Yashraj Tiwari — Data Science and AI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:14213D,100:00D4FF&height=220&section=header&text=YASH%20RAJ%20TIWARI&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20COMPUTER%20VISION&descSize=13&descAlignY=59&animation=fadeIn" width="100%" alt="Yashraj Tiwari — Data Science and AI"/>
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=Exploring+Data.+Discovering+Insights.;Machine+Learning+%7C+Computer+Vision;Turning+Ideas+Into+Intelligent+Systems;Learn+Deeply.+Build+Intelligently." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=DATA+SCIENTIST;Exploring+Data.+Discovering+Insights.;Machine+Learning+%7C+Computer+Vision;Turning+Ideas+Into+Intelligent+Systems;Learn+Deeply.+Build+Intelligently." alt="Animated introduction"/>
 </a>
 
 <br/>
@@ -95,23 +95,7 @@ My focus is on strengthening the foundations that power modern data science and 
 
 I believe that mastering fundamentals and consistently applying them to practical problems is essential to becoming a better data scientist and AI practitioner.
 
-## `04` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D4FF&icon_color=00D4FF&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D4FF&text_color=E6EDF3" alt="Most-used programming languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=080B16&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak"/>
-
-</div>
-
-*GitHub statistics reflect repository activity and code contributions; they are not direct measures of technical expertise.*
-
-## `05` — MY ENGINEERING PRINCIPLES
+## `04` — MY ENGINEERING PRINCIPLES
 
 ```text
 01. Understand the problem before choosing the algorithm.
@@ -123,7 +107,7 @@ I believe that mastering fundamentals and consistently applying them to practica
 07. Keep learning, experimenting, and improving.
 ```
 
-## `06` — LET'S CONNECT
+## `05` — LET'S CONNECT
 
 I'm interested in connecting with people who share an interest in Data Science, Machine Learning, Computer Vision, and Artificial Intelligence.
 
